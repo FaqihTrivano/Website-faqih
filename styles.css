@@ -1,0 +1,86 @@
+*,
+html {
+    margin:  0;
+    padding: 0;
+}
+
+.semua {
+    
+}
+
+.WARNA-AWAL {
+ background-color: crimson;
+ width: 100%;
+ height: 100%px;
+}
+
+.WARNA-TENGAH {
+    display:flex;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+}
+
+.WARNA {
+    list-style-type: none;
+    padding: 10px;
+    margin: 30px;
+    color: white;
+    font-size: 30px;
+}
+.WARNA:hover{
+ background-color:blueviolet;
+ border-radius: 8px;
+}
+
+.skin {
+    color: white;
+    font-weight: 800;
+    
+}
+
+.konten-awal {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+}
+
+.kontenn {
+    background-color: crimson;
+    color: white;
+    font-size: 20px;
+    width: 650px;
+    height: 470px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    border-radius: 200px;
+    box-shadow:box-shadow: 33px 4px 19px -5px rgba(0,0,0,0.4);
+    -webkit-box-shadow: 33px 4px 19px -5px rgba(0,0,0,0.4);
+    -moz-box-shadow: 33px 4px 19px -5px rgba(0,0,0,0.4);
+}
+    
+
+.Konten1 {
+    width: 50%px;
+    height: 55%;
+}
+
+.foster-awal {
+    background-color:crimson;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+.foster1 {
+    font-size: 30px;
+    margin: 10px;
+    padding: 20px;
+    height: 50%;
+    color:white;
+    text-decoration-line:underline;
+}
